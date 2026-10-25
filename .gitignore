@@ -1,0 +1,8 @@
+# 数据：来自 Tushare，运行 1-数据拉取 可重新生成
+*.csv
+
+# macOS 系统文件
+.DS_Store
+
+# Jupyter 自动备份
+.ipynb_checkpoints/
